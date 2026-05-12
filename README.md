@@ -4,7 +4,7 @@ I completed the first step and created the GitHub repository with the README.md 
 
 Here is the link:
 
-[https://github.com/TheTomCodes/cursor-setup-project/blob/f735978ccc1930b38f1fa75cd6ef770d8f5c3d7e/README.md]
+[https://github.com/TheTomCodes/cursor-setup-project/blob/f4169e3eeb77d8e088c0ac7acc0974de3c35aae4/README.md]
 
 Thank you.
 
